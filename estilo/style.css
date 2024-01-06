@@ -176,7 +176,7 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-    .container {
+    .principal {
         display: block;
         background-image: none;
     }
